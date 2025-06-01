@@ -1,0 +1,1 @@
+1 60 32 87 0 0 0 0 0 0 0 0 // typ strefy, ilosc max, ilosc zal, waga w tonach, ilosc elektronika,zabawki,jedzenie,plastiki,chemia,agd,pojazdy,ubrania
